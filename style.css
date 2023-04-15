@@ -34,3 +34,6 @@ body {
   align-items: center;
 }
 
+canvas {
+  border: 3px solid #ddd;
+}
