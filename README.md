@@ -1,6 +1,4 @@
 ## Snake Game 🐍🟥
-### `⚠️In Progress...⚠️`
-
 This is a mini project focused on building the classic Snake game. The main objective is to exercise programming logic and concepts of HTML canvas.
 
 ### How to Play
